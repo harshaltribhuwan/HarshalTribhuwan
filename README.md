@@ -33,6 +33,8 @@ I love to learn about how things work and try new tools and technologies.
         <li>Mongo DB</li>
         <li>Firebase</li> 
     </ul>
+    
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshaltribhuwan&layout=compact&theme=vision-friendly-dark&show_icons=true)](https://github.com/harshaltribhuwan/github-readme-stats)
 </details>
 
 ## Database:
