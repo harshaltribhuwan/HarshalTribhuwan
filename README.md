@@ -9,7 +9,7 @@ Hi folks :wave:
 
 I'm Harshal Tribhuvan, a Full Stack Developer in MERN(MongoDB-Express.js-React.js-Node.js) Stack and a part-time Musician.
 
-I'm a Computer Science r. I did my Bachelor's in Computer Science & Engineering from SRM Institute of Science and Technology, Chennai. I love to learn about how things work and try new tools and technologies. I love to share time with developer communities and events.
+I love to learn about how things work and try new tools and technologies.
 
 # Skills
 ## Programming Languages:
