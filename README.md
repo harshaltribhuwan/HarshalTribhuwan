@@ -1,4 +1,4 @@
-<p align="center"> Harshal Tribhuvan </p>
+# align="center" Harshal Tribhuvan
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=harshaltribhuwan&show_icons=true&count_private=true&theme=dark"/>
