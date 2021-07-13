@@ -14,24 +14,29 @@ I'm a Computer Science r. I did my Bachelor's in Computer Science & Engineering 
 # Skills
 ## Programming Languages:
 
-<img src="https://img.shields.io/badge/JavaScript (ES6)-brightgreen" alt="JavaScript (ES6)" /> <img src="https://img.shields.io/badge/Python 3-informational" alt="Python 3" />
+<img src="https://img.shields.io/badge/C-lightgrey" alt="C" /> <img src="https://img.shields.io/badge/C++-ff69b4" alt="C++" /> <img src="https://img.shields.io/badge/Java SE-important" alt="Java SE" /> <img src="https://img.shields.io/badge/Python 3-informational" alt="Python 3" /> <img src="https://img.shields.io/badge/JavaScript (ES6)-brightgreen" alt="JavaScript (ES6)" /> <img src="https://img.shields.io/badge/TypeScript-yellow" alt="TypeScript" />
 
 <!-- * C/C++
-* JavaScript (ES6)
+* Java SE
 * Python 3
+* JavaScript (ES6)
+* TypeScript -->
 
 ## Frameworks:
 
 <details>
     <summary>view list...</summary>
     <ul>
+        <li>MEAN</li>
         <li>MERN</li>
+        <li>Angular</li>
         <li>React</li>
+        <li>React Native</li>
         <li>Redux</li>
         <li>Node.js</li>
-        <li>Express.js</li>
+        <li>Ionic 3 & 4</li>
         <li>Mongo DB</li>
-        <li>Firebase</li>        
+        <li>Android</li>
     </ul>
 </details>
 
@@ -44,6 +49,3 @@ I'm a Computer Science r. I did my Bachelor's in Computer Science & Engineering 
         <li>MySQL</li>
     </ul>
 </details>
-
-
-
