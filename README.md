@@ -21,6 +21,7 @@ I love to learn about how things work and try new tools and technologies.
 
 ## Frameworks:
 
+<div display="flex">
 ### React.js
 ### Redux
 ### Node.js
@@ -28,6 +29,7 @@ I love to learn about how things work and try new tools and technologies.
 ### Mongo DB
 ### Firebase
 ### EJS
+</div>
     
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshaltribhuwan&layout=compact&theme=vision-friendly-dark&show_icons=true)](https://github.com/harshaltribhuwan/github-readme-stats)
 
