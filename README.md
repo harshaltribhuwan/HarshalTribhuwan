@@ -21,8 +21,7 @@ I love to learn about how things work and try new tools and technologies.
 
 ## Frameworks:
 
-### React.js
-### Redux
+### React.js, ### Redux
 ### Node.js
 ### Express.js
 ### Mongo DB
