@@ -27,4 +27,6 @@ I love to learn about how things work and try new tools and technologies.
 
 ### MongoDB, MySQL.
     
+<p align="center">
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshaltribhuwan&layout=compact&theme=vision-friendly-dark&show_icons=true)](https://github.com/harshaltribhuwan/github-readme-stats)
+</p>
