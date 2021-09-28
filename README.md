@@ -21,7 +21,6 @@ I love to learn about how things work and try new tools and technologies.
 
 ## Frameworks:
 
-### MERN
 ### React.js
 ### Redux
 ### Node.js
