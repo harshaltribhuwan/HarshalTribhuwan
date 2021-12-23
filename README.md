@@ -21,10 +21,10 @@ I love to learn about how things work and try new tools and technologies.
 
 ## Frameworks:
 
-### React.js, Redux, Node.js, Express.js, MongoDB, Firebase, EJS.
+### React.js, Redux, Node.js, Express.js, Hapi.js, MongoDB, Firebase, EJS.
 
 ## Database:
 
-### MongoDB, MySQL.
+### MongoDB, MySQL, Cassandra.
     
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshaltribhuwan&layout=compact&theme=vision-friendly-dark&show_icons=true)](https://github.com/harshaltribhuwan/github-readme-stats)
