@@ -6,7 +6,7 @@
 # About Me
 Hi folks :wave: 
 
-I'm Harshal Tribhuvan, a Full Stack Developer in MERN(MongoDB-Express.js-React.js-Node.js) Stack and a part-time Musician.
+I'm Harshal Tribhuvan, a Frontend Engineer in React and a part-time Musician.
 
 I love to learn about how things work and try new tools and technologies.
 
