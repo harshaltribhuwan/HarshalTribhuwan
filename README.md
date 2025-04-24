@@ -25,7 +25,9 @@ I love to learn about how things work and try new tools and technologies.
     
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshaltribhuwan&layout=compact&theme=vision-friendly-dark&show_icons=true)](https://github.com/harshaltribhuwan/github-readme-stats)
 
- <p align="center">
+## Charts
+
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=harshaltribhuwan&show_icons=true&count_private=true&theme=dark"/>
 </p>
 
