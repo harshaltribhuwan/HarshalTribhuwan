@@ -6,15 +6,6 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshaltribhuvan&theme=monokai"/>
 </p>
 
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshaltribhuwan&theme=monokai"/>
-</p>
-
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshaltribhuvan&theme=monokai"/>
-</p>
-
-
 # About Me
 Hi folks :wave: 
 
