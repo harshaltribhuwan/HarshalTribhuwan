@@ -1,10 +1,3 @@
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshaltribhuwan&theme=monokai"/>
-</p>
-
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshaltribhuvan&theme=monokai"/>
-</p>
 
 # About Me
 Hi folks :wave: 
@@ -31,3 +24,15 @@ I love to learn about how things work and try new tools and technologies.
 ### MongoDB, MySQL, Cassandra.
     
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshaltribhuwan&layout=compact&theme=vision-friendly-dark&show_icons=true)](https://github.com/harshaltribhuwan/github-readme-stats)
+
+ <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=harshaltribhuwan&show_icons=true&count_private=true&theme=dark"/>
+</p>
+
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshaltribhuwan&theme=monokai"/>
+</p>
+
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshaltribhuvan&theme=monokai"/>
+</p>
