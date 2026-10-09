@@ -4,10 +4,11 @@
 frontends backed by Node and Python (FastAPI) services — and I like shipping things people
 can actually install and use.
 
-In 2025 I independently designed and built **DevSecureX**, a complete security-scanning
-platform — backend, scanning engine, web app, a CLI published to npm, and a GitHub App.
-Alongside it I've built a wide range of product frontends, AI-powered apps, and full-stack
-applications.
+In 2025 I independently designed and shipped two products end-to-end: **DevSecureX**, a
+complete security-scanning platform (backend, scanning engine, web app, a CLI published to
+npm, and a GitHub App), and **[Itinexa](https://itinexa.com)**, a smart travel-planning
+workspace. Alongside them I've built a wide range of product frontends, AI-powered apps, and
+full-stack applications.
 
 ---
 
