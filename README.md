@@ -34,7 +34,7 @@ full-stack applications.
 
 ## Featured work
 
-**[DevSecureX](https://devsecurex.com)** — Security scanning platform &nbsp;·&nbsp; **live at [devsecurex.com](https://devsecurex.com)**
+**[DevSecureX](https://devsecurex.com)** — Security scanning platform &nbsp;·&nbsp; **[live](https://devsecurex.com)** · **[code](https://github.com/DevSecureX)**
 Scans code across 20+ languages using 16+ security tools (Semgrep, Trivy, Bandit, Gosec…)
 with async Redis-backed workers, GitHub pull-request integration, and AI-powered
 explanations. Built end-to-end: FastAPI backend · React/TypeScript PWA · Node CLI (on npm)
