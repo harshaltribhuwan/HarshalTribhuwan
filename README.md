@@ -44,16 +44,8 @@ A travel planning app built around *Plan, Track, Relive* — organize itinerarie
 in real time, and revisit memories, all in one intuitive workspace. React · TypeScript.
 *(Grew out of my earlier TravelMate project.)*
 
-**[AI Resume Critic](https://github.com/harshaltribhuwan/ai-resume-critic)** — AI resume feedback
-An interactive, AI-powered resume feedback app with a polished, animated UI.
-React · Framer Motion · SCSS.
-
-**[react-otp-component](https://github.com/harshaltribhuwan/react-otp-component)** — Reusable OTP input
-A responsive, animated OTP input with dark/light theming and smooth UX.
-React · Framer Motion · Vite.
-
-More in my [repositories](https://github.com/harshaltribhuwan?tab=repositories) — dashboards,
-component libraries, UI experiments, and full-stack apps.
+More projects — dashboards, UI components, and full-stack apps — in my
+[repositories](https://github.com/harshaltribhuwan?tab=repositories).
 
 ---
 
