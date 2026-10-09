@@ -1,36 +1,68 @@
+# Hi, I'm Harshal Tribhuvan
 
-# About Me
-Hi folks :wave: 
+**Full-stack engineer.** I build end-to-end web products — polished React / TypeScript
+frontends backed by Node and Python (FastAPI) services — and I like shipping things people
+can actually install and use.
 
-I'm Harshal Tribhuvan, a Frontend Engineer in React and a part-time Musician.
+In 2025 I independently designed and built **DevSecureX**, a complete security-scanning
+platform — backend, scanning engine, web app, a CLI published to npm, and a GitHub App.
+Alongside it I've built a wide range of product frontends, AI-powered apps, and full-stack
+applications.
 
-I love to learn about how things work and try new tools and technologies.
+---
 
-# Skills
-## Programming Languages:
+## Tech I work with
 
-<img src="https://img.shields.io/badge/JavaScript (ES6)-brightgreen" alt="JavaScript (ES6)" /> <img src="https://img.shields.io/badge/Python 3-informational" alt="Python 3" /> 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-<!-- * C/C++
-* JavaScript (ES6)
-* Python 3 -->
+**Frontend:** React · TypeScript · Next.js · Angular · Redux · Vite · Tailwind · Material UI · Framer Motion · GSAP
+**Backend:** Node.js · Express · Hapi.js · Python · FastAPI
+**Data:** PostgreSQL · MongoDB · Redis · Cassandra · Firebase
+**Tooling:** Docker · Git · npm package & GitHub App publishing · OpenAI · security / DevSecOps automation
 
-## Frameworks:
+---
 
-### React.js, Redux, Node.js, Express.js, Hapi.js, MongoDB, Firebase, EJS.
+## Featured work
 
-## Database:
+**[DevSecureX](https://github.com/DevSecureX)** — Security scanning platform
+Scans code across 20+ languages using 16+ security tools (Semgrep, Trivy, Bandit, Gosec…)
+with async Redis-backed workers, GitHub pull-request integration, and AI-powered
+explanations. Built end-to-end: FastAPI backend · React/TypeScript PWA · Node CLI (on npm)
+· GitHub App.
 
-### MongoDB, MySQL, Cassandra.
-    
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshaltribhuwan&layout=compact&theme=vision-friendly-dark&show_icons=true)](https://github.com/harshaltribhuwan/github-readme-stats)
+**[TravelMate](https://github.com/harshaltribhuwan/travel-mate)** — AI-powered travel assistant
+An all-in-one travel assistant that brings essential travel utilities into a single,
+intuitive interface using real-time APIs. TypeScript · React.
 
-## Charts
+**[AI Resume Critic](https://github.com/harshaltribhuwan/ai-resume-critic)** — AI resume feedback
+An interactive, AI-powered resume feedback app with a polished, animated UI.
+React · Framer Motion · SCSS.
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=harshaltribhuwan&show_icons=true&count_private=true&theme=dark"/>
-</p>
+**[react-otp-component](https://github.com/harshaltribhuwan/react-otp-component)** — Reusable OTP input
+A responsive, animated OTP input with dark/light theming and smooth UX.
+React · Framer Motion · Vite.
 
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshaltribhuvan&theme=monokai"/>
-</p>
+More in my [repositories](https://github.com/harshaltribhuwan?tab=repositories) — dashboards,
+component libraries, UI experiments, and full-stack apps.
+
+---
+
+## GitHub
+
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshaltribhuwan&layout=compact&theme=vision-friendly-dark&count_private=true&hide=HTML)](https://github.com/harshaltribhuwan)
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=harshaltribhuwan&show_icons=true&count_private=true&theme=vision-friendly-dark)](https://github.com/harshaltribhuwan)
+
+---
+
+Outside of code, I'm a part-time musician. Always happy to connect — reach me at
+**harshaltribhuwan12345@gmail.com**.
