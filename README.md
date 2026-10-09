@@ -4,10 +4,10 @@
 frontends backed by Node and Python (FastAPI) services — and I like shipping things people
 can actually install and use.
 
-In 2025 I independently designed and shipped two products end-to-end: **DevSecureX**, a
-complete security-scanning platform (backend, scanning engine, web app, a CLI published to
-npm, and a GitHub App), and **[Itinexa](https://itinexa.com)**, a smart travel-planning
-workspace. Alongside them I've built a wide range of product frontends, AI-powered apps, and
+In 2025 I independently designed and shipped two products end-to-end:
+**[DevSecureX](https://devsecurex.com)**, a complete security-scanning platform (backend,
+scanning engine, web app, a CLI published to npm, and a GitHub App), and
+**[Itinexa](https://itinexa.com)**, a smart travel-planning workspace. Alongside them I've built a wide range of product frontends, AI-powered apps, and
 full-stack applications.
 
 ---
@@ -34,7 +34,7 @@ full-stack applications.
 
 ## Featured work
 
-**DevSecureX** — Security scanning platform &nbsp;·&nbsp; **[live](https://devsecurex.com)** · **[code](https://github.com/DevSecureX)**
+**[DevSecureX](https://devsecurex.com)** — Security scanning platform &nbsp;·&nbsp; **live at [devsecurex.com](https://devsecurex.com)**
 Scans code across 20+ languages using 16+ security tools (Semgrep, Trivy, Bandit, Gosec…)
 with async Redis-backed workers, GitHub pull-request integration, and AI-powered
 explanations. Built end-to-end: FastAPI backend · React/TypeScript PWA · Node CLI (on npm)
