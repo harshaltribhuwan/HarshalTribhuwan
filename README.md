@@ -39,9 +39,10 @@ with async Redis-backed workers, GitHub pull-request integration, and AI-powered
 explanations. Built end-to-end: FastAPI backend · React/TypeScript PWA · Node CLI (on npm)
 · GitHub App.
 
-**[TravelMate](https://github.com/harshaltribhuwan/travel-mate)** — AI-powered travel assistant
-An all-in-one travel assistant that brings essential travel utilities into a single,
-intuitive interface using real-time APIs. TypeScript · React.
+**[Itinexa](https://itinexa.com)** — Smart travel workspace &nbsp;·&nbsp; **live at [itinexa.com](https://itinexa.com)**
+A travel planning app built around *Plan, Track, Relive* — organize itineraries, track trips
+in real time, and revisit memories, all in one intuitive workspace. React · TypeScript.
+*(Grew out of my earlier TravelMate project.)*
 
 **[AI Resume Critic](https://github.com/harshaltribhuwan/ai-resume-critic)** — AI resume feedback
 An interactive, AI-powered resume feedback app with a polished, animated UI.
