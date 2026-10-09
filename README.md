@@ -65,5 +65,9 @@ component libraries, UI experiments, and full-stack apps.
 
 ---
 
-Outside of code, I'm a part-time musician. Always happy to connect — reach me at
-**harshaltribhuwan12345@gmail.com**.
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshal-tribhuvan/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshaltribhuwan12345@gmail.com)
+
+Outside of code, I'm a part-time musician. Always happy to connect.
